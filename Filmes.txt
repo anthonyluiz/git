@@ -2,4 +2,8 @@ Guerras nas estrelas 1977
 Guerras nas estrelas 1980
 Velozes e furiosos I
 Velozes e furiosos II
+<<<<<<< HEAD
  
+=======
+  
+>>>>>>> novaBranch
